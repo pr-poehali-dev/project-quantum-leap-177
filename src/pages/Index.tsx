@@ -1,9 +1,9 @@
-import HeroSection from '@/components/HeroSection';
+import GuitarSchool from '@/components/GuitarSchool';
 
 const Index = () => {
   return (
     <main>
-      <HeroSection />
+      <GuitarSchool />
     </main>
   );
 };
